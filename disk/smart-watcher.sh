@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # 設定變數
-DEVICE=""                           # 請輸入要檢測的磁碟裝置，例如 /dev/sda, /dev/sdb
+DEVICE="/dev/sda"                   # 請輸入要檢測的磁碟裝置，例如 /dev/sda, /dev/sdb
 WEBHOOK_URL=""                      # 請輸入 Discord Webhook URL
 REPORT_FILE="/tmp/smart_report.txt" # 報告檔案路徑 預設為 /tmp/smart_report.txt
 

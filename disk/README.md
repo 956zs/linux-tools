@@ -24,8 +24,8 @@ A robust disk health monitoring utility that automates SMART tests and sends rep
 
 1. Clone the repository or download the script:
    ```bash
-   git clone https://github.com/956zs/scripts.git
-   cd scripts
+   git clone https://github.com/956zs/linux-tools.git
+   cd linux-tools/disk
    ```
 
 2. Make the script executable:
